@@ -34,8 +34,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
-  color: $darkerGray;
+  font-family: 'Times New Roman', Times, serif;
+  color: MistyRose;
   font-weight: bold;
 
   line-height: 1.5;
@@ -126,7 +126,7 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: MistyRose;
 }
 ::selection {
   color: $black;
@@ -278,7 +278,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: MistyRose;
 }
 
 footer {
@@ -314,7 +314,7 @@ table.dataframe {
   height: 240px;
   display: block;
   overflow: auto;
-  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 13px;
   line-height: 20px;
   text-align: center;
