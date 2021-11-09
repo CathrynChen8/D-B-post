@@ -49,15 +49,10 @@ plt.plot(X, Y, 'o')
 plt.plot(X, reg.coef_* X + reg.intercept_)
 ```
 
-
-
-
     [<matplotlib.lines.Line2D at 0x7fd9ef9c0700>]
 
 
-
-
-![png](output_4_1.png)
+![png](/images/output_4_1.png)
 
 
 
@@ -338,7 +333,7 @@ plt.plot(x, reg.coef_* x + reg.intercept_)
 
 
 
-![png](output_16_1.png)
+![png](/images/output_16_1.png)
 
 
 From the graph below we can see that the welfare reform did potentially decrease the family poverty rate.
