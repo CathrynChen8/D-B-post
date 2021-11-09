@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 40px;
   a {
-    color: MistyRose;
+    color: MediumVioletRed;
   }
 }
 
@@ -64,7 +64,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: MediumVioletRed;
 }
 
 p {
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: MediumVioletRed;
   font-size: 16px;
 
   @include mobile {
@@ -259,7 +259,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
+    color: MediumVioletRed;
     font-size: 22px;
     font-style: italic;
   }
