@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Creating posts
+title: Week7 Presentation
 ---
+
+This is an example blogpost of our exploration and result as of week 7. 
 
 ```python
 import plotly.express as px
