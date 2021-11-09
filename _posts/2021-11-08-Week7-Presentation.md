@@ -12,7 +12,7 @@ Last time we conducted data exploration. We run several regressions and found th
 
 
 
-![png](/images/output_4_1.png)
+![png](/images/1.png)
 
 
 
@@ -48,7 +48,7 @@ We chose two states that gradually increased their EITC and observe **a drop in 
 Running a simple linear regression, we find that there are no storng relationship between U.S. family poverty rate and tax rate, as shown in the graph below.
 
 
-![png](/images/output_16_1.png)
+![png](/images/2.png)
 
 
 From the graph below we can see that the welfare reform did potentially decrease the family poverty rate.
