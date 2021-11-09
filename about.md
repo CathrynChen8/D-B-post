@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are students from UCLA who take PIC16B class and research on problem related to tax. Dian Chen is a junior student who majored in Financial Actuarial Mathematics. Lang Chen is senior students who majored in Econ/Math.
 
-### More Information
+We are tring to work on understanding more about the economic and financial fields, begin from simple research on the effect of tax on the society.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
