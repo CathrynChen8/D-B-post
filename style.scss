@@ -21,7 +21,7 @@ body {
   background: $white;
   font-family: 'Times New Roman', Times, serif;
   font-family: 'Times New Roman', Times, serif;
-  color: MistyRose;
+  color: MediumVioletRed;
   line-height: 1.5;
   font-size: large;
 }
@@ -35,7 +35,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Times New Roman', Times, serif;
-  color: MistyRose;
+  color: MediumVioletRed;
   font-weight: bold;
 
   line-height: 1.5;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 40px;
   a {
-    color: inherit;
+    color: MistyRose;
   }
 }
 
@@ -120,7 +120,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: MediumVioleyRed;
 }
 
 // Specify the color of the selection
@@ -130,7 +130,7 @@ img {
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: MistyRose;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -159,7 +159,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid MediumVioletRed;
 
   @include mobile {
     text-align: center;
@@ -195,7 +195,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: MediumVioletRed;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -228,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: MistyRose;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
